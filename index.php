@@ -17,7 +17,7 @@
 <body>
   <p>&nbsp</p>
   <p>&nbsp</p>
-  <p>Hello Thomas</p>
+  <center><p>Hello Thomas B</p></center>
   <p>&nbsp</p>
   <p>&nbsp</p>
 </body>
