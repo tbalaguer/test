@@ -10,15 +10,12 @@
 
   <link rel="stylesheet" href="css/styles.css">
 
-<!--         End of header                              -->
 </head>
-
+<!--         HTML Page Starts Here           -->
 <body>
   <p>&nbsp</p>
   <p>&nbsp</p>
 
-  <center><p>Hello Thomas</p></center>
-  <p>&nbsp</p>
   <center><h1>Hello Thomas</h1></center>
   <p>&nbsp</p>
   <center><h2>Hello Thomas</h2></center>
@@ -30,6 +27,8 @@
   <center><h5>Hello Thomas</h5></center>
   <p>&nbsp</p>
   <center><h6>Hello Thomas</h6></center>
+  <p>&nbsp</p>
+  <center><p>Hello Thomas</p></center>
 
   <p>&nbsp</p>
   <p>&nbsp</p>

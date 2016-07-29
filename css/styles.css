@@ -7,12 +7,19 @@
  	font-weight: normal;
  }
 
+ variables {
+   --main-bg-color: #0C0C0C;
+   --text-color-a: #444444;
+   --text-color-b: #555555;
+   --text-color-c: #777777;
+ }
+
  body {
 	height:100%;
 	margin: 0;
 	padding: 0;
 	border-style: none;
-	background-color: #0C0C0C;
+	background-color: var(--main-bg-color);
 	line-height: normal;
 	text-align: center;
 	text-transform: none;
@@ -24,16 +31,15 @@
 	letter-spacing:.2px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p {
 	font-family: 'CustomFont1', sans-serif;
 	text-decoration: none;
 	margin: 0px 0px 0px 0px;
-	line-height: 18px;
 }
-h1 { font-size: 32px; font-weight: 700; color: #444; }
-h2 { font-size: 24px; font-weight: 400; color: #444; }
-h3 { font-size: 19px; font-weight: 700; color: #555; }
-h4 { font-size: 16px; font-weight: 400; color: #444; }
-h5 { font-size: 14px; font-weight: 400; color: #777; }
-h6 { font-size: 13px; font-weight: 400; color: #777; }
-p { font-size: 13px; font-weight: 400; color: #777; }
+h1 { font-size: 32px; font-weight: 700; color: var(--text-color-a); }
+h2 { font-size: 24px; font-weight: 400; color: var(--text-color-a); }
+h3 { font-size: 19px; font-weight: 700; color: var(--text-color-a); }
+h4 { font-size: 16px; font-weight: 400; color: var(--text-color-b); }
+h5 { font-size: 14px; font-weight: 400; color: var(--text-color-b); }
+h6 { font-size: 13px; font-weight: 400; color: var(--text-color-c); }
+p { font-size: 13px; font-weight: 400; color: var(--text-color-c); }
