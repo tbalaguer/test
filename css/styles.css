@@ -63,7 +63,8 @@ FooterLeft {
   text-decoration: none;
 }
 FooterLeft ul { list-style-type: none; padding: 0; text-decoration: none; }
-FooterLeft ul a { text-decoration: none; }
+FooterLeft ul a, a:link, a:visited { text-decoration: none; }
+FooterLeft ul a:hover { color: #f2f2f2; }
 
 FooterRight {
   float: right;
@@ -73,4 +74,5 @@ FooterRight {
   text-decoration: none;
 }
 FooterRight ul { list-style-type: none; padding: 0; }
-FooterRight ul a { text-decoration: none; }
+FooterRight ul a, a:link, a:visited { text-decoration: none; }
+FooterRight ul a:hover { color: #f2f2f2; }
