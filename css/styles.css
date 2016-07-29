@@ -56,7 +56,7 @@ FooterContainer {
 FooterLeft {
   float: left;
   width: 50%;
-  height: 400px;
+  height: 200px;
   margin: 0;
   background-color: #2F4F4F;
 }
@@ -64,9 +64,9 @@ FooterLeft ul { list-style-type: none; padding: 0; }
 FooterLeft ul a { text-decoration: none; }
 
 FooterRight {
-  margin-left: 50%;
+  float: right;
   width: 50%;
-  height: 400px;
+  height: 200px;
   margin: 0;
   background-color: #000080;
 }

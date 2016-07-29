@@ -38,22 +38,22 @@
     <p>&nbsp</p>
     <p>&nbsp</p>
 <!--         left          -->
-      <FooterRight>
+      <FooterLeft>
        <ul>
          <li><a href="#">Link 1</a></li>
          <li><a href="#">Link 2</a></li>
          <li><a href="#">Link 3</a></li>
        </ul>
-      </FooterRight>
+      </FooterLeft>
 
 <!--         Right           -->
-      <FooterLeft>
+      <FooterRight>
         <ul>
           <li><a href="#">Link 1</a></li>
           <li><a href="#">Link 2</a></li>
           <li><a href="#">Link 3</a></li>
         </ul>
-      </FooterLeft>
+      </FooterRight>
   </FooterContainer>
 <!--         After the footer column          -->
   <FooterContainer>
