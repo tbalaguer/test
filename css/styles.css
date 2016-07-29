@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 
+*{ text-decoration: none; list-style:none;}
+
 @font-face {
   font-family: CustomFont1;
  	src: url(http://website-a.herokuapp.com/fonts/Roboto-Regular.ttf);

@@ -31,8 +31,10 @@
   <p>&nbsp</p>
   <center><p>Hello Thomas</p></center>
 
-  <p>&nbsp</p>
-  <p>&nbsp</p>
+  <p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p>
+  <p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p>
+  <p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p>
+  <p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p><p>&nbsp</p>
 
   <FooterContainer>
     <p>&nbsp</p>
@@ -48,15 +50,14 @@
 <!--         Right column          -->
       <FooterRight>
         <ul>
-          <li><h4><a href="#">Link 1</a></h4></li>
-          <li><h4><a href="#">Link 2</a></h4></li>
-          <li><h4><a href="#">Link 3</a></h4></li>
+          <li><h4><a href="#">Link 4</a></h4></li>
+          <li><h4><a href="#">Link 5</a></h4></li>
+          <li><h4><a href="#">Link 6</a></h4></li>
         </ul>
       </FooterRight>
   </FooterContainer>
 <!--         After the footer column          -->
   <FooterContainer>
-    <p>&nbsp</p>
     <p>&nbsp</p>
     <h4>Copyright© 2016 - All Rights Reserved</h4>
     <p>&nbsp</p>
