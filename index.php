@@ -34,32 +34,35 @@
   <p>&nbsp</p>
   <p>&nbsp</p>
 
-  <footer>
+  <FooterContainer>
     <p>&nbsp</p>
     <p>&nbsp</p>
 <!--         left          -->
       <FooterRight>
        <ul>
-         <li><a href="#">London</a></li>
-         <li><a href="#">Paris</a></li>
-         <li><a href="#">Tokyo</a></li>
+         <li><a href="#">Link 1</a></li>
+         <li><a href="#">Link 2</a></li>
+         <li><a href="#">Link 3</a></li>
        </ul>
       </FooterRight>
 
 <!--         Right           -->
       <FooterLeft>
         <ul>
-          <li><a href="#">London</a></li>
-          <li><a href="#">Paris</a></li>
-          <li><a href="#">Tokyo</a></li>
+          <li><a href="#">Link 1</a></li>
+          <li><a href="#">Link 2</a></li>
+          <li><a href="#">Link 3</a></li>
         </ul>
       </FooterLeft>
-<!--         after the footer          -->
-      <p>&nbsp</p>
+  </FooterContainer>
+<!--         After the footer column          -->
+  <FooterContainer>
+    <p>&nbsp</p>
+    <p>&nbsp</p>
     <h4>Copyright© 2016 - test</h4>
     <p>&nbsp</p>
     <p>&nbsp</p>
-  </footer>
+  </FooterContainer>
 </div>
 </body>
 </html>

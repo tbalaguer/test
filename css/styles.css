@@ -48,22 +48,26 @@ p { font-size: 13px; font-weight: 400; color: #777777; }
 
 .flex-container > * { -webkit-flex: 1 100%; flex: 1 100%; }
 
-footer { background: black; }
+FooterContainer {
+  background: black;
+  width: 100%;
+}
 
 FooterLeft {
   float: left;
   width: 50%;
+  height: 400px;
   margin: 0;
-  padding: 1em;
   background-color: #2F4F4F;
 }
 FooterLeft ul { list-style-type: none; padding: 0; }
 FooterLeft ul a { text-decoration: none; }
 
 FooterRight {
-    width: 50%;
-    margin: 0;
-    padding: 1em;
+  margin-left: 50%;
+  width: 50%;
+  height: 400px;
+  margin: 0;
   background-color: #000080;
 }
 FooterRight ul { list-style-type: none; padding: 0; }
