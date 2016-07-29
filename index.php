@@ -37,13 +37,29 @@
   <footer>
     <p>&nbsp</p>
     <p>&nbsp</p>
-    Copyright© 2016 - test
+<!--         left          -->
+      <FooterRight>
+       <ul>
+         <li><a href="#">London</a></li>
+         <li><a href="#">Paris</a></li>
+         <li><a href="#">Tokyo</a></li>
+       </ul>
+      </FooterRight>
+
+<!--         Right           -->
+      <FooterLeft>
+        <ul>
+          <li><a href="#">London</a></li>
+          <li><a href="#">Paris</a></li>
+          <li><a href="#">Tokyo</a></li>
+        </ul>
+      </FooterLeft>
+<!--         after the footer          -->
+      <p>&nbsp</p>
+    <h4>Copyright© 2016 - test</h4>
     <p>&nbsp</p>
     <p>&nbsp</p>
   </footer>
-
-  <p>&nbsp</p>
-  <p>&nbsp</p>
 </div>
 </body>
 </html>
