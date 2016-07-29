@@ -3,7 +3,7 @@
 
  @font-face {
  	font-family: CustomFont1;
- 	src: url(fonts/Roboto-Regular.ttf);
+ 	src: url(http://website-a.herokuapp.com/fonts/Roboto-Regular.ttf);
  	font-weight: normal;
  }
 
