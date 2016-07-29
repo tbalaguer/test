@@ -13,6 +13,7 @@
 </head>
 <!--         HTML Page Starts Here           -->
 <body>
+<div class="flex-container">
   <p>&nbsp</p>
   <p>&nbsp</p>
 
@@ -32,5 +33,17 @@
 
   <p>&nbsp</p>
   <p>&nbsp</p>
+
+  <footer>
+    <p>&nbsp</p>
+    <p>&nbsp</p>
+    Copyright© 2016 - test
+    <p>&nbsp</p>
+    <p>&nbsp</p>
+  </footer>
+
+  <p>&nbsp</p>
+  <p>&nbsp</p>
+</div>
 </body>
 </html>
