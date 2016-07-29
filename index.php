@@ -37,21 +37,20 @@
   <FooterContainer>
     <p>&nbsp</p>
     <p>&nbsp</p>
-<!--         left          -->
+<!--         left column         -->
       <FooterLeft>
        <ul>
-         <li><a href="#">Link 1</a></li>
-         <li><a href="#">Link 2</a></li>
-         <li><a href="#">Link 3</a></li>
+         <li><h4><a href="#">Link 1</a></h4></li>
+         <li><h4><a href="#">Link 2</a></h4></li>
+         <li><h4><a href="#">Link 3</a></h4></li>
        </ul>
       </FooterLeft>
-
-<!--         Right           -->
+<!--         Right column          -->
       <FooterRight>
         <ul>
-          <li><a href="#">Link 1</a></li>
-          <li><a href="#">Link 2</a></li>
-          <li><a href="#">Link 3</a></li>
+          <li><h4><a href="#">Link 1</a></h4></li>
+          <li><h4><a href="#">Link 2</a></h4></li>
+          <li><h4><a href="#">Link 3</a></h4></li>
         </ul>
       </FooterRight>
   </FooterContainer>
@@ -59,7 +58,7 @@
   <FooterContainer>
     <p>&nbsp</p>
     <p>&nbsp</p>
-    <h4>Copyright© 2016 - test</h4>
+    <h4>Copyright© 2016 - All Rights Reserved</h4>
     <p>&nbsp</p>
     <p>&nbsp</p>
   </FooterContainer>
