@@ -1,6 +1,12 @@
  @charset "UTF-8";
  /* CSS Document */
 
+ @font-face {
+ 	font-family: CustomFont1;
+ 	src: url(fonts/Roboto-Regular.ttf);
+ 	font-weight: normal;
+ }
+
  body {
 	height:100%;
 	margin: 0;
@@ -14,56 +20,20 @@
 	font-variant: normal;
 	text-decoration: none;
 	color: #444; /* txt_color */
-	font-family: 'sans_custom', sans-serif;
+	font-family: 'CustomFont1', sans-serif;
 	letter-spacing:.2px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'sans_custom', sans-serif;
+	font-family: 'CustomFont1', sans-serif;
 	text-decoration: none;
-	/*color: #777;  headline_txt_color */
 	margin: 0px 0px 0px 0px;
 	line-height: 18px;
 }
-h1 { font-size: 20px; font-weight: 700; color: #444; }
-h2 { font-size: 14px; font-weight: 400; color: #444; }
-h3 {
-	font-size: 14px;
-	font-weight: 700;
-	color: #555;
-}
-/*h4 {
-	font-size: 14px;
-	font-weight: 400;
-	color: #777;
-}*/
-h4 {
-	line-height: 0.95em;
-	margin-top:10px;
-	height:100%;
-	width:100%;
-	font-size: 13px;
-	text-align:center;
-	color:#FFF;
-}
-h5 {
-	font-size: 14px;
-	font-weight: 400;
-	color: #777;
-}
-h6 {
-	margin-top:15px;
-	height:100%;
-	width:100%;
-	font-size: 18px;
-	font-weight: 400;
-	text-align:center;
-	color:#FFF;
-}
-
-p {
-	font-size: 13px;
-	font-weight: 400;
-	color: #777;
-	margin: 0px 0px 0px 0px;
-}
+h1 { font-size: 32px; font-weight: 700; color: #444; }
+h2 { font-size: 24px; font-weight: 400; color: #444; }
+h3 { font-size: 19px; font-weight: 700; color: #555; }
+h4 { font-size: 16px; font-weight: 400; color: #444; }
+h5 { font-size: 14px; font-weight: 400; color: #777; }
+h6 { font-size: 13px; font-weight: 400; color: #777; }
+p { font-size: 13px; font-weight: 400; color: #777; }
